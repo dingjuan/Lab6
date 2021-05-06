@@ -1,1 +1,1 @@
-# Lab6_Solution
+https://dingjuan.github.io/Lab6/
